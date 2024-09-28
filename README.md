@@ -1,1 +1,2 @@
 # weather-monitoring-app
+The Weather Monitoring App is a web application that provides real-time weather information. It is built using HTML, CSS, and JavaScript to create an interactive and user-friendly interface. The app retrieves weather data from RapidAPI, allowing users to view current weather conditions such as temperature, humidity, and wind speed for various locations. The use of JavaScript ensures dynamic updates and interactivity, while HTML and CSS create a clean and responsive design for optimal user experience.
